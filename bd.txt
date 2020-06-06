@@ -1,0 +1,18 @@
+tb_clientes
+
+id_cliente   1 , 2
+nome_cliente Leo , Bruna
+
+
+tb_projetos
+
+id_projeto 1 , 2 , 3
+id_cliente 1, 1 , 2
+tip_projeto Interiores,Interiores, Arquitetonicos
+tb_img_projetos
+
+id_img_projeto 1, 2 , 3 , 4
+id_projeto 1 , 1 , 2 , 3
+des_img_projeto quarto.jpg , quarto2.jpg , sala.jpg , casa.jpg
+
+brulu2713
